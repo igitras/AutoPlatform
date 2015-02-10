@@ -1,0 +1,12 @@
+[submodule "ClusterManager"]
+	path = ClusterManager
+	url = https://github.com/igitras/ClusterManager.git
+[submodule "ImageManager"]
+	path = ImageManager
+	url = https://github.com/igitras/ImageManager.git
+[submodule "ImageBuilder"]
+	path = ImageBuilder
+	url = https://github.com/igitras/ImageBuilder.git
+[submodule "AppBuilder"]
+	path = AppBuilder
+	url = https://github.com/igitras/AppBuilder.git
